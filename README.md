@@ -1,17 +1,18 @@
 # Yuri Pernambuco
 
-Estou construindo minha base para atuar com Engenharia de Dados Júnior e áreas próximas de Dados, BI e Analytics.
+Estou construindo minha base para atuar com Engenharia de Dados Júnior e áreas próximas de BI e Analytics.
 
-Meu foco hoje é aprender fazendo: projetos pequenos, dados explicáveis, código organizado e evolução constante. Prefiro manter os projetos simples e bem documentados a criar uma arquitetura grande que eu não conseguiria defender em entrevista.
+Meu foco hoje é aprender fazendo: projetos pequenos, dados explicáveis, código organizado e evolução constante. Prefiro manter os projetos simples e bem documentados a criar uma estrutura maior do que eu conseguiria explicar bem em entrevista.
 
 ## Projetos Em Destaque
 
-| Projeto | O que pratica |
+| Projeto | Resumo |
 | --- | --- |
-| [dashboard-clima-streamlit](https://github.com/ypernambuco/dashboard-clima-streamlit) | dashboard com Streamlit, KPIs, filtros, gráficos e tabela |
-| [etl-clima-python-sqlite](https://github.com/ypernambuco/etl-clima-python-sqlite) | consumo de API pública, pandas, SQLite, SQL e métricas |
-| [etl-vendas-python](https://github.com/ypernambuco/etl-vendas-python) | ETL com CSV, pandas, limpeza de dados, logs e Parquet |
-| [Projetos](https://github.com/ypernambuco/Projetos) | laboratório de estudos em Python e dados |
+| [dashboard-clima-streamlit](https://github.com/ypernambuco/dashboard-clima-streamlit) | Dashboard de clima com Streamlit, KPIs, filtros, gráficos e tabela. |
+| [etl-clima-python-sqlite](https://github.com/ypernambuco/etl-clima-python-sqlite) | Pipeline com API pública, pandas, SQLite, SQL e métricas simples. |
+| [etl-vendas-python](https://github.com/ypernambuco/etl-vendas-python) | ETL com CSV, pandas, limpeza de dados, logs e saída em Parquet. |
+
+Também mantenho o repositório [Projetos](https://github.com/ypernambuco/Projetos) como laboratório de estudos em Python.
 
 ## O Que Tenho Praticado
 
