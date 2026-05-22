@@ -35,6 +35,10 @@ Estou organizando meu aprendizado em uma sequência prática:
 
 A ideia é mostrar evolução real, com projetos que eu consiga explicar de ponta a ponta.
 
+## Observações
+
+Os projetos ainda têm limitações. Alguns usam bases pequenas, rodam localmente e não têm testes completos. Estou mantendo esse escopo de propósito, para evoluir aos poucos e conseguir explicar as decisões técnicas com clareza.
+
 ## Próximos Passos
 
 - adicionar testes automatizados aos projetos de ETL;
