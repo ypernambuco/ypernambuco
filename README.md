@@ -1,48 +1,52 @@
 # Yuri Pernambuco
 
-Estou construindo minha base para atuar com Engenharia de Dados Júnior e áreas próximas de BI e Analytics.
+Estudando Engenharia de Dados, Python e áreas próximas de BI e Analytics.
 
-Meu foco hoje é aprender fazendo: projetos pequenos, dados explicáveis, código organizado e evolução constante. Prefiro manter os projetos simples e bem documentados a criar uma estrutura maior do que eu conseguiria explicar bem em entrevista.
+Hoje estou focando mais em aprender na prática: ETL, pandas, SQL, APIs, dashboards e organização de projetos simples de dados.
+
+Ainda estou evoluindo bastante, então a ideia aqui é manter projetos pequenos, organizados e fáceis de entender.
 
 ## Projetos Em Destaque
 
 | Projeto | Resumo |
 | --- | --- |
-| [dashboard-clima-streamlit](https://github.com/ypernambuco/dashboard-clima-streamlit) | Dashboard de clima com Streamlit, KPIs, filtros, gráficos e tabela. |
-| [etl-clima-python-sqlite](https://github.com/ypernambuco/etl-clima-python-sqlite) | Pipeline com API pública, pandas, SQLite, SQL e métricas simples. |
-| [etl-vendas-python](https://github.com/ypernambuco/etl-vendas-python) | ETL com CSV, pandas, limpeza de dados, logs e saída em Parquet. |
+| [dashboard-clima-streamlit](https://github.com/ypernambuco/dashboard-clima-streamlit) | Dashboard simples em Streamlit com KPIs, filtros, gráficos e tabela. |
+| [etl-clima-python-sqlite](https://github.com/ypernambuco/etl-clima-python-sqlite) | Pipeline com API pública, pandas, SQLite e métricas básicas de clima. |
+| [etl-vendas-python](https://github.com/ypernambuco/etl-vendas-python) | ETL simples com CSV, pandas, limpeza de dados, logs e saída em Parquet. |
 
-Também mantenho o repositório [Projetos](https://github.com/ypernambuco/Projetos) como laboratório de estudos em Python.
+Também mantenho o repositório [Projetos](https://github.com/ypernambuco/Projetos) para estudos, exercícios e pequenos testes em Python.
 
 ## O Que Tenho Praticado
 
 - Python para automação e tratamento de dados;
-- pandas para limpeza, transformação e análise;
-- SQL com SQLite para consultas e métricas;
+- pandas para limpeza e transformação;
+- SQL com SQLite;
 - consumo de APIs públicas;
 - organização simples de pipelines ETL;
 - visualização de dados com Streamlit;
-- Git e GitHub com commits pequenos e documentação clara.
+- Git e GitHub.
 
 ## Como Tenho Estudado
 
-Estou organizando meu aprendizado em uma sequência prática:
+Tenho tentado aprender as coisas em sequência, sem pular muita etapa:
 
 1. fundamentos de Python;
 2. ETL local com CSV e Parquet;
 3. pipeline com API, pandas e SQLite;
 4. dashboard simples usando os dados tratados.
 
-A ideia é mostrar evolução real, com projetos que eu consiga explicar de ponta a ponta.
+A ideia é ir evoluindo os projetos aos poucos e entender bem o que estou construindo.
 
 ## Observações
 
-Os projetos ainda têm limitações. Alguns usam bases pequenas, rodam localmente e não têm testes completos. Estou mantendo esse escopo de propósito, para evoluir aos poucos e conseguir explicar as decisões técnicas com clareza.
+Os projetos ainda têm várias limitações. Alguns usam bases pequenas, rodam localmente e ainda não possuem testes automatizados completos.
+
+Por enquanto estou priorizando prática, organização e entendimento do fluxo dos dados antes de aumentar muito a complexidade.
 
 ## Próximos Passos
 
 - adicionar testes automatizados aos projetos de ETL;
-- escrever mais consultas SQL de análise;
+- praticar mais consultas SQL;
 - publicar o dashboard no Streamlit Community Cloud;
 - estudar modelagem dimensional básica;
 - criar um projeto pequeno com indicadores de negócio.
