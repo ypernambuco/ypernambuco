@@ -3,69 +3,86 @@
 **Data Analytics & Engineering**<br>
 Python | SQL | Power BI | ETL | Cloud
 
-Building data products, dashboards, and business solutions.
+Construindo produtos de dados, dashboards e soluções de negócio.<br>
+*Building data products, dashboards, and business solutions.*
 
-## About
+## Sobre | About
 
-I am transitioning into Data Analytics and Data Engineering, with hands-on experience building end-to-end portfolio projects focused on data processing, business intelligence, and decision support.
+Estou em transição para Analytics e Engenharia de Dados, desenvolvendo projetos ponta a ponta com foco em processamento de dados, inteligência de negócios e apoio à tomada de decisão.
 
-My work combines structured pipelines, clear documentation, reliable data models, and dashboards designed to turn raw data into useful business information.
+*I am transitioning into Data Analytics and Data Engineering, building end-to-end projects focused on data processing, business intelligence, and decision support.*
 
-## Core Stack
+Meu trabalho combina pipelines estruturados, documentação clara, modelos de dados confiáveis e dashboards que transformam dados brutos em informações úteis para o negócio.
 
-- **Data Engineering:** Python, pandas, ETL, APIs, CSV, Parquet
-- **Analytics & BI:** SQL, Power BI, dimensional modeling, KPIs
-- **Data Apps:** Streamlit, Plotly, Altair
-- **Databases & Cloud:** SQLite, PostgreSQL, Supabase, Streamlit Community Cloud
-- **Workflow:** Git, GitHub, data quality checks, technical documentation
+*My work combines structured pipelines, clear documentation, reliable data models, and dashboards that turn raw data into useful business information.*
 
-## Featured Projects
+## Stack Principal | Core Stack
+
+- **Engenharia de Dados | Data Engineering:** Python, pandas, ETL, APIs, CSV, Parquet
+- **Analytics & BI:** SQL, Power BI, modelagem dimensional, KPIs
+- **Aplicações de Dados | Data Apps:** Streamlit, Plotly, Altair
+- **Bancos de Dados & Cloud | Databases & Cloud:** SQLite, PostgreSQL, Supabase, Streamlit Community Cloud
+- **Workflow:** Git, GitHub, qualidade de dados, documentação técnica
+
+## Projetos em Destaque | Featured Projects
 
 ### [Case Sorveteria Analytics](https://github.com/ypernambuco/case-sorveteria-analytics)
 
-End-to-end sales analytics project covering data cleaning, quality validation, dimensional modeling, executive KPIs, and a Power BI dashboard.
+Projeto ponta a ponta de analytics de vendas, incluindo limpeza e validação de dados, modelagem dimensional, KPIs executivos e dashboard Power BI.
 
-**Stack:** Python, pandas, Power BI, DAX, dimensional modeling
+*End-to-end sales analytics project covering data cleaning, quality validation, dimensional modeling, executive KPIs, and a Power BI dashboard.*
 
-**Business value:** Transforms 50,000 raw sales records into documented insights for revenue, demand, product mix, and operational analysis.
+**Stack:** Python, pandas, Power BI, DAX, modelagem dimensional
 
-### [ORION GRC](https://github.com/ypernambuco/orion-grc) | [Live Demo](https://orion-grc.streamlit.app/)
+**Valor de negócio | Business value:** Transforma 50 mil registros brutos em insights documentados sobre receita, demanda, mix de produtos e operação.
 
-Corporate-style Governance, Risk & Compliance data application with document, risk, and area management plus an executive cockpit.
+### [ORION GRC](https://github.com/ypernambuco/orion-grc) | [Demo](https://orion-grc.streamlit.app/)
+
+Aplicação corporativa de Governança, Riscos e Compliance com gestão de documentos, riscos e áreas, além de cockpit executivo.
+
+*Corporate-style Governance, Risk & Compliance application with document, risk, and area management plus an executive cockpit.*
 
 **Stack:** Python, Streamlit, Supabase, PostgreSQL, Plotly
 
-**Business value:** Centralizes governance information and provides executive visibility into compliance status, operational risks, and pending actions.
+**Valor de negócio | Business value:** Centraliza informações de governança e oferece visibilidade executiva sobre conformidade, riscos e pendências.
 
 ### [ETL Vendas Python](https://github.com/ypernambuco/etl-vendas-python)
 
-Structured ETL pipeline for ingesting, cleaning, validating, and exporting sales data.
+Pipeline estruturado para ingestão, limpeza, validação e exportação de dados de vendas.
+
+*Structured ETL pipeline for ingesting, cleaning, validating, and exporting sales data.*
 
 **Stack:** Python, pandas, PyArrow, Parquet, logging
 
-**Business value:** Converts inconsistent CSV sales records into a clean, reusable analytical dataset.
+**Valor de negócio | Business value:** Converte registros inconsistentes em uma base analítica limpa e reutilizável.
 
-### [Dashboard Clima Streamlit](https://github.com/ypernambuco/dashboard-clima-streamlit) | [Live Demo](https://dashboard-clima.streamlit.app/)
+### [Dashboard Clima Streamlit](https://github.com/ypernambuco/dashboard-clima-streamlit) | [Demo](https://dashboard-clima.streamlit.app/)
 
-Interactive data application for exploring recent weather history and forecasts through KPIs, filters, charts, and tables.
+Aplicação interativa para explorar histórico climático recente e previsões por meio de KPIs, filtros, gráficos e tabelas.
+
+*Interactive data application for exploring recent weather history and forecasts through KPIs, filters, charts, and tables.*
 
 **Stack:** Python, Streamlit, pandas, Altair, Cloud deployment
 
-**Business value:** Makes processed weather data accessible through a clear and interactive interface.
+**Valor de negócio | Business value:** Torna dados climáticos processados acessíveis por meio de uma interface clara e interativa.
 
 ### [ETL Clima Python + SQLite](https://github.com/ypernambuco/etl-clima-python-sqlite)
 
-Weather data pipeline that collects data from a public API, transforms it, and stores analytical outputs in CSV and SQLite.
+Pipeline que coleta dados de uma API pública, realiza transformações e armazena os resultados em CSV e SQLite.
+
+*Weather data pipeline that collects data from a public API, transforms it, and stores analytical outputs in CSV and SQLite.*
 
 **Stack:** Python, pandas, SQL, SQLite, Open-Meteo API
 
-**Business value:** Creates a structured and queryable dataset from external weather data for analytics and dashboard consumption.
+**Valor de negócio | Business value:** Cria uma base estruturada e consultável para análises e consumo por dashboards.
 
-## Current Focus
+## Foco Atual | Current Focus
 
-Improving data pipeline reliability, SQL and data modeling skills, automated quality checks, and the delivery of analytics solutions connected to business needs.
+Aprimorar a confiabilidade de pipelines, SQL, modelagem de dados, verificações automatizadas de qualidade e a entrega de soluções conectadas às necessidades do negócio.
 
-## Contact
+*Improving data pipeline reliability, SQL, data modeling, automated quality checks, and the delivery of solutions connected to business needs.*
+
+## Contato | Contact
 
 - [GitHub](https://github.com/ypernambuco)
 - [Email](mailto:yc.pernambuco@gmail.com)
