@@ -1,48 +1,71 @@
 # Yuri Pernambuco
 
-Estou em transição para a área de dados, com foco em Engenharia de Dados Jr, BI e Analytics.
+**Data Analytics & Engineering**<br>
+Python | SQL | Power BI | ETL | Cloud
 
-Meu foco é aprender fazendo: construir pipelines, tratar dados, criar indicadores e transformar resultados em dashboards e documentação clara.
+Building data products, dashboards, and business solutions.
 
-## O Que Tenho Estudado
+## About
 
-- Python para automação e tratamento de dados;
-- pandas para limpeza e transformação;
-- SQL com SQLite para consultas e métricas;
-- consumo de APIs públicas;
-- organização de pipelines ETL simples;
-- visualização de dados com Streamlit;
-- Git e GitHub para versionamento e documentação.
+I am transitioning into Data Analytics and Data Engineering, with hands-on experience building end-to-end portfolio projects focused on data processing, business intelligence, and decision support.
 
-## Projetos Em Destaque
+My work combines structured pipelines, clear documentation, reliable data models, and dashboards designed to turn raw data into useful business information.
 
-| Projeto | Resumo |
-| --- | --- |
-| [case-sorveteria-analytics](https://github.com/ypernambuco/case-sorveteria-analytics) | Case completo de BI: tratamento com Python, modelo dimensional, KPIs e dashboard Power BI. |
-| [orion-grc](https://github.com/ypernambuco/orion-grc) | [Demonstração publicada](https://orion-grc.streamlit.app/) de produto GRC com Streamlit, Supabase/PostgreSQL e dashboards executivos. |
-| [etl-vendas-python](https://github.com/ypernambuco/etl-vendas-python) | ETL simples de vendas com Python, pandas e Parquet. |
-| [etl-clima-python-sqlite](https://github.com/ypernambuco/etl-clima-python-sqlite) | Pipeline simples de clima usando API, pandas e SQLite. |
-| [dashboard-clima-streamlit](https://github.com/ypernambuco/dashboard-clima-streamlit) | [Dashboard publicado](https://dashboard-clima.streamlit.app/) com histórico, previsão e filtros. |
+## Core Stack
 
-Também mantenho o repositório [Projetos](https://github.com/ypernambuco/Projetos) como laboratório de estudos em Python.
+- **Data Engineering:** Python, pandas, ETL, APIs, CSV, Parquet
+- **Analytics & BI:** SQL, Power BI, dimensional modeling, KPIs
+- **Data Apps:** Streamlit, Plotly, Altair
+- **Databases & Cloud:** SQLite, PostgreSQL, Supabase, Streamlit Community Cloud
+- **Workflow:** Git, GitHub, data quality checks, technical documentation
 
-## Como Tenho Organizado Meu Aprendizado
+## Featured Projects
 
-1. fundamentos de Python e tratamento de arquivos;
-2. limpeza e transformação de dados com pandas;
-3. pipelines ETL com CSV, Parquet, APIs e SQLite;
-4. modelagem dimensional, indicadores e Power BI;
-5. dashboards e aplicações de dados com Streamlit;
-6. persistência em PostgreSQL/Supabase.
+### [Case Sorveteria Analytics](https://github.com/ypernambuco/case-sorveteria-analytics)
 
-## Observações
+End-to-end sales analytics project covering data cleaning, quality validation, dimensional modeling, executive KPIs, and a Power BI dashboard.
 
-Os projetos têm escopos diferentes: alguns são estudos introdutórios e outros demonstram fluxos completos de analytics ou aplicações publicadas. Em todos, procuro documentar decisões, limitações e próximos passos com clareza.
+**Stack:** Python, pandas, Power BI, DAX, dimensional modeling
 
-## Próximos Passos
+**Business value:** Transforms 50,000 raw sales records into documented insights for revenue, demand, product mix, and operational analysis.
 
-- ampliar testes automatizados e validações de qualidade;
-- aprofundar SQL e modelagem de dados;
-- automatizar pipelines e atualizações;
-- evoluir dashboards com indicadores de negócio;
-- continuar melhorando a documentação dos projetos.
+### [ORION GRC](https://github.com/ypernambuco/orion-grc) | [Live Demo](https://orion-grc.streamlit.app/)
+
+Corporate-style Governance, Risk & Compliance data application with document, risk, and area management plus an executive cockpit.
+
+**Stack:** Python, Streamlit, Supabase, PostgreSQL, Plotly
+
+**Business value:** Centralizes governance information and provides executive visibility into compliance status, operational risks, and pending actions.
+
+### [ETL Vendas Python](https://github.com/ypernambuco/etl-vendas-python)
+
+Structured ETL pipeline for ingesting, cleaning, validating, and exporting sales data.
+
+**Stack:** Python, pandas, PyArrow, Parquet, logging
+
+**Business value:** Converts inconsistent CSV sales records into a clean, reusable analytical dataset.
+
+### [Dashboard Clima Streamlit](https://github.com/ypernambuco/dashboard-clima-streamlit) | [Live Demo](https://dashboard-clima.streamlit.app/)
+
+Interactive data application for exploring recent weather history and forecasts through KPIs, filters, charts, and tables.
+
+**Stack:** Python, Streamlit, pandas, Altair, Cloud deployment
+
+**Business value:** Makes processed weather data accessible through a clear and interactive interface.
+
+### [ETL Clima Python + SQLite](https://github.com/ypernambuco/etl-clima-python-sqlite)
+
+Weather data pipeline that collects data from a public API, transforms it, and stores analytical outputs in CSV and SQLite.
+
+**Stack:** Python, pandas, SQL, SQLite, Open-Meteo API
+
+**Business value:** Creates a structured and queryable dataset from external weather data for analytics and dashboard consumption.
+
+## Current Focus
+
+Improving data pipeline reliability, SQL and data modeling skills, automated quality checks, and the delivery of analytics solutions connected to business needs.
+
+## Contact
+
+- [GitHub](https://github.com/ypernambuco)
+- [Email](mailto:yc.pernambuco@gmail.com)
